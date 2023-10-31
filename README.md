@@ -5,7 +5,7 @@ Welcome to my project! This is a simple to-do list application made with HTML, C
 
 
 
-![todo] <img src="https://github.com/naomit9/todoList-project/assets/144495516/7eb8ba32-05e4-42eb-85e0-60cd6eb883ab" width=500>
+<img src="https://github.com/naomit9/todoList-project/assets/144495516/7eb8ba32-05e4-42eb-85e0-60cd6eb883ab" width=500>
 
 
 
