@@ -1,10 +1,16 @@
 # To-Do List App
+
 ## Description
-Welcome to my project! This is a simple to-do list application made with HTML, CSS, and JavaScript. It allows users to quickly and easily add, delete, and update tasks. With this App, users can effortlessly manage their tasks, helping them stay organized and on top of their to-do list. We hope you enjoy and we look forward to your contribution!
+This is a simple to-do list application made with HTML, CSS, and JavaScript. 
+The app allows users to:
+* quickly and easily add, delete, and update tasks
+* effortlessly manage their tasks
+* stay organized 
 
+## Live Preview
+[Click Here to View Live Preview]()
 
-
-
+## Sample Image
 <img src="https://github.com/naomit9/todoList-project/assets/144495516/7eb8ba32-05e4-42eb-85e0-60cd6eb883ab" width=500>
 
 
