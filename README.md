@@ -1,5 +1,5 @@
 # To-Do List App
-<img src="https://github.com/naomit9/todoList-project/assets/144495516/7eb8ba32-05e4-42eb-85e0-60cd6eb883ab" width=500>
+<img src="https://github.com/naomit9/todoList-project/assets/144495516/7eb8ba32-05e4-42eb-85e0-60cd6eb883ab" width=100%>
 
 ## Project Overview 👋
 This is a simple to-do list application made using HTML, CSS, and JavaScript. The to-do list app allows users to effortlessly manage their tasks and stay organized.
